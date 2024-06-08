@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROBBY HERMANSYAH\\Documents\\Pelajaran KUliah\\Semester 6\\Pemrograman Gim\\TemplateProject-30-05-2024\\TemplateProject\\vs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7560DDF-F4E9-43FC-8D50-6DAD2183B56D}|Project\\Project.vcxproj|C:\\Users\\ROBBY HERMANSYAH\\Documents\\Pelajaran KUliah\\Semester 6\\Pemrograman Gim\\TemplateProject-30-05-2024\\TemplateProject\\vs\\Project\\Launcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7560DDF-F4E9-43FC-8D50-6DAD2183B56D}|Project\\Project.vcxproj|solutionrelative:Project\\Launcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7560DDF-F4E9-43FC-8D50-6DAD2183B56D}|Project\\Project.vcxproj|C:\\Users\\ROBBY HERMANSYAH\\Documents\\Pelajaran KUliah\\Semester 6\\Pemrograman Gim\\TemplateProject-30-05-2024\\TemplateProject\\vs\\Project\\Demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7560DDF-F4E9-43FC-8D50-6DAD2183B56D}|Project\\Project.vcxproj|solutionrelative:Project\\Demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7560DDF-F4E9-43FC-8D50-6DAD2183B56D}|Project\\Project.vcxproj|C:\\Users\\ROBBY HERMANSYAH\\Documents\\Pelajaran KUliah\\Semester 6\\Pemrograman Gim\\TemplateProject-30-05-2024\\TemplateProject\\vs\\Project\\Demo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7560DDF-F4E9-43FC-8D50-6DAD2183B56D}|Project\\Project.vcxproj|solutionrelative:Project\\Demo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 441,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo.cpp",
+              "DocumentMoniker": "C:\\Users\\ROBBY HERMANSYAH\\Documents\\Pelajaran KUliah\\Semester 6\\Pemrograman Gim\\TemplateProject-30-05-2024\\TemplateProject\\vs\\Project\\Demo.cpp",
+              "RelativeDocumentMoniker": "Project\\Demo.cpp",
+              "ToolTip": "C:\\Users\\ROBBY HERMANSYAH\\Documents\\Pelajaran KUliah\\Semester 6\\Pemrograman Gim\\TemplateProject-30-05-2024\\TemplateProject\\vs\\Project\\Demo.cpp",
+              "RelativeToolTip": "Project\\Demo.cpp",
+              "ViewState": "AQIAAHoBAAAAAAAAAAAAAIYBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T15:04:31.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Launcher.cpp",
+              "DocumentMoniker": "C:\\Users\\ROBBY HERMANSYAH\\Documents\\Pelajaran KUliah\\Semester 6\\Pemrograman Gim\\TemplateProject-30-05-2024\\TemplateProject\\vs\\Project\\Launcher.cpp",
+              "RelativeDocumentMoniker": "Project\\Launcher.cpp",
+              "ToolTip": "C:\\Users\\ROBBY HERMANSYAH\\Documents\\Pelajaran KUliah\\Semester 6\\Pemrograman Gim\\TemplateProject-30-05-2024\\TemplateProject\\vs\\Project\\Launcher.cpp",
+              "RelativeToolTip": "Project\\Launcher.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T13:11:19.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo.h",
+              "DocumentMoniker": "C:\\Users\\ROBBY HERMANSYAH\\Documents\\Pelajaran KUliah\\Semester 6\\Pemrograman Gim\\TemplateProject-30-05-2024\\TemplateProject\\vs\\Project\\Demo.h",
+              "RelativeDocumentMoniker": "Project\\Demo.h",
+              "ToolTip": "C:\\Users\\ROBBY HERMANSYAH\\Documents\\Pelajaran KUliah\\Semester 6\\Pemrograman Gim\\TemplateProject-30-05-2024\\TemplateProject\\vs\\Project\\Demo.h",
+              "RelativeToolTip": "Project\\Demo.h",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAADkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-04T15:04:44.628Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
